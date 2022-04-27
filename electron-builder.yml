@@ -1,0 +1,4 @@
+appId: uz.epos.app
+publish:
+  provider: github
+  token: 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
